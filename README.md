@@ -1,7 +1,8 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+![WhatsApp Image 2023-11-30 at 4 00 11 PM](https://github.com/GokulSureshkumar-0606/GokulSureshkumar/assets/143949287/a0aea7d0-ebe2-4f6e-b67f-a530f0771cf0)
+
 <h1 align="left">Hi 👋, I'm Gokul Sureshkumar</h1>
-<h3 align="left">A passionate python developer from India</h3>
-<p align="left">As a Python Developer and code craftman, I'm on a relentless quest to turn ideas into interactive and elegant web experiences. 💻✨ My code is not just a collection of ones and zeros; it's the manifestation of my passion for crafting pixel-perfect solutions and my insatiable curiosity for pushing the boundaries of what's possible on the web.</p>
+<h3 align="left">A passionate Front-End Developer from India</h3>
+<p align="left">As a Front-End Developer and code craftman, I'm on a relentless quest to turn ideas into interactive and elegant web experiences. 💻✨ My code is not just a collection of ones and zeros; it's the manifestation of my passion for crafting pixel-perfect solutions and my insatiable curiosity for pushing the boundaries of what's possible on the web.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulsureshkumar-0606&label=Profile%20views&color=0e75b6&style=flat" alt="gokulsureshkumar-0606" /> </p>
