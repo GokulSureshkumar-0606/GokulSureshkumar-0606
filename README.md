@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Gokul Sureshkumar, A self taught Programer,based in India.I expertise in MEARN stack development.</p>
+<p align="left">I am Gokul Sureshkumar, A self taught Programer,based in India.I expertise in MERN Stock Developer.</p>
 
 
 
