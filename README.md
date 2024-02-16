@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Glad to see you on my profile, let me quickly introduce myself. My full name is Gokul Sureshkumar and I'm a self-taught web developer from Tamilnadu. Javascript is my favorite language that's why I'm keenly interested in MERN stack development. I'm also a coding content creator and love to teach people how to code.</p>
+<p align="left">I am Gokul Sureshkumar, A self taught Programer,based in India.I expertise in MEARN stack development.</p>
 
 
 
